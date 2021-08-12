@@ -56,7 +56,6 @@ public class Main_11082021 {
         ThucHanh05.printArray(arr3a);
         int count = ThucHanh05.countDivisible(arr3a);
         System.out.format("Có %d số chia hết cho 4 nhưng không chia hết cho 5", count);
-        System.out.println();
 
         System.out.println("Bài 3b");
         int n3b;
